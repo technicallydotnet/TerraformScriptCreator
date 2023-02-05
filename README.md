@@ -16,5 +16,5 @@ A simple application for creating Terraform configs for Azure via a CLI applicat
 
 ## Future features
 - Being able to set spec for each resource category with an external text file
-- Creating/deleting different specification levels with an external file
+- Add support for GCP and AWS
 - Adding an optional parameter, which will add optional Terraform config to resources
